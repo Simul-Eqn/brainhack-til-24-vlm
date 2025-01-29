@@ -12,3 +12,9 @@ protobuf<4.21.3
 transformers==4.37.0
 accelerate
 uvicorn[standard]
+
+git+https://github.com/openai/CLIP.git
+easydict
+pillow
+tensorflow 
+albumentations 
